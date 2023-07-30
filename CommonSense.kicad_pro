@@ -488,7 +488,7 @@
       },
       {
         "netclass": "RF - 50Ohm",
-        "pattern": "RF"
+        "pattern": "/RF"
       }
     ]
   },
