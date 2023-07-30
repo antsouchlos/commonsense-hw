@@ -2095,6 +2095,13 @@
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 98fbe7b3-41b2-4953-beb4-44d9d1f50f51)
   )
+  (text_box "TODO: Modify schematic to use internal DC/DC instead of LDO"
+    (at 128.27 21.59 0) (size 21.59 10.16)
+    (stroke (width 0) (type default))
+    (fill (type color) (color 255 255 194 1))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid cf707afe-f7ef-4afc-8412-e30ae66321be)
+  )
 
   (text "Humidity & Temperature Sensor" (at 26.67 86.36 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
