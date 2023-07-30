@@ -3394,7 +3394,7 @@
     (property "Footprint" "encyclopedia_galactica:2108838-1" (at 236.22 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "  (at 0 0)" (at 236.22 97.79 0)
+    (property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F2108838%7FA2%7Fpdf%7FEnglish%7FENG_DS_2108838_A2.pdf%7F2108838-1" (at 236.22 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f5ec1994-9ef3-48b9-8847-0cc8f50e8d5f))
