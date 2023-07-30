@@ -1841,6 +1841,9 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b3224c81-250a-4378-84c6-43dfea589c64))
   (gr_line locked (start 136 77) (end 136 59)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b51433e2-b31d-45d6-8106-ab8df75984df))
+  (gr_text "CommonSense v1.0" (at 162.9 60.6 90) (layer "B.SilkS") (tstamp 2b48077d-9472-4452-99dc-e629dbce1944)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left top mirror))
+  )
 
   (segment (start 142.875 68) (end 139.8 68) (width 0.35) (layer "F.Cu") (net 1) (tstamp c577d5a5-9fb6-498e-aa37-751365ad2975))
   (segment (start 153.5 63.775) (end 153.5 58.1) (width 0.4) (layer "F.Cu") (net 2) (tstamp 0e965d8c-a996-4720-8513-35dc8ee292e5))
