@@ -483,12 +483,16 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "Power",
-        "pattern": "+3V3"
-      },
-      {
         "netclass": "RF - 50Ohm",
         "pattern": "/RF"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+3V0"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+BATT"
       }
     ]
   },
