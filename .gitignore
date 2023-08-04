@@ -32,3 +32,6 @@ bom/
 
 # Backups
 *-backups
+
+# Kiri files
+.kiri/
