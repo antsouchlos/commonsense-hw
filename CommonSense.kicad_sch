@@ -4425,7 +4425,7 @@
     (property "Reference" "BT1" (at 29.21 58.42 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Battery_Cell" (at 29.21 60.96 0)
+    (property "Value" "3034" (at 29.21 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm" (at 27.94 55.626 90)

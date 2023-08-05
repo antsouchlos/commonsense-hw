@@ -2150,7 +2150,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 5e786f32-840a-4f39-be6c-0ba60d24da6c)
     )
-    (fp_text value "Battery_Cell" (at 0 -11.5 90) (layer "B.Fab") hide
+    (fp_text value "3034" (at 0 -11.5 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ab381925-fc7a-4c2b-81f2-917384c52996)
     )
