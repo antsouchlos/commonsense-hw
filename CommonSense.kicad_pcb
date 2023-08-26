@@ -1117,7 +1117,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4d0d0f4e-60f8-40b8-831b-2879064fe6a1)
     )
-    (fp_text value "12pF" (at 0 1.43) (layer "F.Fab") hide
+    (fp_text value "8pF" (at 0 1.43) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp af8e39ea-4ab7-49d9-bc2c-bac479dad35e)
     )
@@ -1296,7 +1296,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c5408479-fcb4-4bb0-868d-04330df6c353)
     )
-    (fp_text value "R" (at 0 1.43) (layer "F.Fab") hide
+    (fp_text value "1k" (at 0 1.43) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 78036180-2815-4af3-b7bb-6cfe9e575331)
     )
@@ -1695,6 +1695,7 @@
     (tags "SHT41-AD1B-R2 ")
     (property "Sheetfile" "CommonSense.kicad_sch")
     (property "Sheetname" "")
+    (property "ki_description" "High-Accuracy, Ultra-Low-Power, 16-bit\nRelative Humidity and Temperature Sensor")
     (property "ki_keywords" "SHT41-AD1B-R2")
     (path "/b1f01907-6dae-49d7-93f3-08443a766ba4")
     (attr smd)
@@ -2096,7 +2097,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6aa30f95-9900-4656-a6d3-e758d121ca84)
     )
-    (fp_text value "12pF" (at 0 1.43) (layer "F.Fab") hide
+    (fp_text value "8pF" (at 0 1.43) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2083d71e-2de1-4e3b-b278-120756276b53)
     )
