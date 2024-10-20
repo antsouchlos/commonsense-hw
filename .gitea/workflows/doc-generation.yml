@@ -3,8 +3,9 @@ name: docs-generation
 on:
   pull_request:
     paths:
-      - '**.sch'
+      - '**.kicad_sch'
       - '**.kicad_pcb'
+      - '**.kicad_pro'
 
 jobs:
   docs-generation:
